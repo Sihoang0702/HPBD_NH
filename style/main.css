@@ -78,6 +78,7 @@ body {
   left: 0;
   position: absolute;
   right: 0;
+   color: #ff69b4;
 }
 
 .idea-3 strong {
@@ -380,5 +381,6 @@ body {
   .nine p {
     font-size: 1.5rem;
     font-weight: lighter;
+     color: #ff69b4;
   }
 }
